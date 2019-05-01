@@ -16,5 +16,9 @@
     "url": "https://github.com/MariaEncalada/Tienda-en-linea/issues"
   },
   "homepage": "https://github.com/MariaEncalada/Tienda-en-linea#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
